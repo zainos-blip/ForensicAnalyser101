@@ -1,0 +1,11 @@
+acora==2.5
+pefile==2024.8.26
+psutil==7.0.0
+pycrypto==2.6.1
+python3-nmap==1.9.1
+scapy==2.6.1
+scapy-http==1.8.2
+setuptools==80.7.1
+simplejson==3.20.1
+wheel==0.45.1
+yara-python==4.5.2
